@@ -72,7 +72,7 @@ UNIX is still relevant today (HP-UX, AIX, Solaris, etc.).
 
 #### MINIX
 
-* **1987**: Andrew S. Tanenbaum develops MINIX, a simplified UNIX, to teach operating systems in a simple way. Mr. Tanenbaum makes the source code of his operating system available.
+* **1987**: Andrew S. Tanenbaum develops MINIX, a simplified UNIX, to teach operating systems in an accessible way. Mr. Tanenbaum makes the source code of his operating system available.
 
 #### Linux
 
@@ -130,7 +130,7 @@ Linux belongs to the family of time-sharing operating systems. It divides proces
 * Simultaneous execution of several programs.
 * Distribution of CPU time by the scheduler.
 * Reduction of problems caused by a failed application.
-* Reduced performance in the event of too many programs running.
+* Reduced performance if too many programs are running.
 
 #### Multi-user
 
@@ -144,7 +144,7 @@ Linux is able to work with multi-processor computers or with multi-core processo
 
 Linux is written in a high-level language that can be adapted to different types of platforms during compilation. This allows it to run on:
 
-* Home computers (PC and laptop)
+* Home computers (PC and notebook)
 * Servers (data and applications)
 * Portable computers (smartphones and tablets)
 * Embedded systems (car computers)
@@ -198,7 +198,7 @@ In the **GNU/Linux** world, the Free Software movement provides mostly free dist
 
 **Open Source**: the source code is available, so it is possible to consult and modify it under certain conditions.
 
-A free software is necessarily open-source, but the opposite is not true since open-source software is distinct from the freedom offered by the GPL license.
+A free software is necessarily open source, but the opposite is not true. Open source software is distinct from the freedom offered by the GPL license.
 
 #### GNU GPL (GNU General Public License)
 
@@ -211,16 +211,16 @@ It implies:
 * The freedom to redistribute copies.
 * The freedom to improve the program, and publish those improvements for the benefit of the whole community.
 
-On the other hand, even products licensed under the GPL can have a cost. This is not for the product itself, but the **guarantee that a team of developers will continue to work on it to make it evolve and troubleshoot errors, or even provide support to users**.
+Alternatively, even products licensed under the GPL can have a cost. This is not for the product itself, but the **guarantee that a team of developers will continue to work on it to make it evolve and troubleshoot errors, or even provide support to users**.
 
 ## Areas of use
 
 A Linux distribution excels for:
 
-* **Servers**: HTTP, email, groupware, file sharing, etc.
-* **Security**: Gateway, firewall, router, proxy, etc.
-* **Central computers**: Banks, insurance, industry, etc.
-* **Embedded systems**: Routers, Internet boxes, SmartTVs, etc.
+* **Servers**: HTTP, email, groupware, file sharing, and so on.
+* **Security**: Gateway, firewall, router, proxy, and so on.
+* **Central computers**: Banks, insurance, industry, and so on.
+* **Embedded systems**: Routers, Internet boxes, SmartTVs, and so on.
 
 Linux is a suitable choice for hosting databases or websites, or as a mail server, DNS or firewall. In short, Linux can do just about anything, which explains the quantity of specific distributions.
 
@@ -230,7 +230,7 @@ Linux is a suitable choice for hosting databases or websites, or as a mail serve
 
 The **shell**, known as _command interface_, allows users to send commands to the operating system. It is less visible today since the implementation of graphical interfaces, but remains a privileged means on Linux systems which do not all have graphical interfaces and whose services do not always have a setting interface.
 
-It offers a real programming language including classical structures (loops, alternatives) and common constituents (variables, passing of parameters, and sub-programs). It allows the creation of scripts to automate certain actions (backups, creation of users, system monitoring, etc.).
+It offers a real programming language including classical structures (loops, alternatives) and common constituents (variables, passing of parameters, and sub-programs). It allows the creation of scripts to automate certain actions (backups, creation of users, system monitoring, and so on.).
 
 There are several types of shells available and configurable on a platform or according to the user's preference. A few examples include:
 
@@ -296,12 +296,12 @@ There are several types of shells available and configurable on a platform or ac
 - [ ] Cross-platform   
 - [ ] Open   
 
-:heavy_check_mark: Is free software necessarily open-source?
+:heavy_check_mark: Is free software necessarily open source?
 
 - [ ] True   
 - [ ] False   
 
-:heavy_check_mark: Is open-source software necessarily free?
+:heavy_check_mark: Is open source software necessarily free?
 
 - [ ] True   
 - [ ] False   
